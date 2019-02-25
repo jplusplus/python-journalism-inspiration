@@ -11,4 +11,6 @@
 ## Tutorials
 ## Reads
 
+* [PEP 8](https://www.python.org/dev/peps/pep-0008/) is a style guide for easy to read and beautiful Python code. The section on [*naming conventions*](https://www.python.org/dev/peps/pep-0008/#naming-conventions) is particularly good to follow.
+
 
