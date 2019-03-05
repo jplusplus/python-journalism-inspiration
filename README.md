@@ -4,6 +4,8 @@
 
 * In [*The Tennis Racket*](http://www.buzzfeed.com/heidiblake/the-tennis-racket) Buzzfeed used Python to analyse betting trends on professional tennis matches and found patterns that suggested match-fixing. The code can be found [here](https://github.com/BuzzFeedNews/2016-01-tennis-betting-analysis/blob/master/notebooks/tennis-analysis.ipynb).
 
+* In [*The Ferguson Area Is Even More Segregated Than You Probably Guessed*](https://www.buzzfeednews.com/article/jsvine/the-ferguson-area-is-even-more-segregated-than-you-thought) Buzzfeed used Python to analyse segregation in St. Louis county. The code can be found [here](https://github.com/BuzzFeedNews/2014-08-st-louis-county-segregation/blob/master/notebooks/segregation-analysis.ipynb).
+
 * Jens Finnäs used Python to analyse the relationship between asylum immigration and crime, and concluded that there was no relationship between the number of asylum seekers in a town and its crime rate. The story was published in *Dagens Samhälle* and the code can be found [here](https://github.com/jensfinnas/dagenssamhalle-notebooks/blob/master/flyktingar_och_brottslighet/Flyktingar%20och%20brottslighet%20i%20kommuner.ipynb).
 
 ## Tools and packages
