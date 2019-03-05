@@ -20,6 +20,7 @@
 * [*How to aumatically find weapons in social media images*](http://www.automatingosint.com/blog/2016/01/osint-automatically-finding-weapons-in-social-media-images-part-1/) using APIs
 
 **Analysis**
+* [*Investigation of voting patterns demographic correlations in Sweden*](http://maxberggren.se/2016/08/15/SD/)
 * [*"Good bye Excel, hello Pandas" workshop at Noda 2018*](https://github.com/jplusplus/noda2018-pandas-workshop) and [*Pandas 101 at Noda 2017*](https://github.com/horriblesmell/noda-pres-17)
 
 * [*A Pandas tour in Jupyter Notebook*](https://nbviewer.jupyter.org/gist/wesm/4757075/PandasTour.ipynb)
