@@ -12,6 +12,8 @@
 
 ## Tools and packages
 ## Snippets and scripts
+* [*Useful Pandas snippets*](https://gist.github.com/bsweger/e5817488d161f37dcbd2)
+
 ## Tutorials
 
 **Scraping**
