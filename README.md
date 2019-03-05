@@ -11,6 +11,7 @@
 ## Tutorials
 
 * [*Scraping Sci-Fi movies from IMDB with Python*](https://link.medium.com/8TJsiG8DJU) (by Riley Predum)
+* [*"Good bye Excel, hello pandas" workshop at Noda 2018*](https://github.com/jplusplus/noda2018-pandas-workshop) and [*Pandas 101 at Noda 2017*](https://github.com/horriblesmell/noda-pres-17)
 
 ## Reads
 
