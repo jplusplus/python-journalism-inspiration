@@ -8,6 +8,8 @@
 
 * In [*The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women*](https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/) 538 analysed if films that pass the Bechdel Test make more money for their producers? The article was replicated by Brian Keegan using Python and his code can be found [here](https://nbviewer.jupyter.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb). Keegan's notebook is a must-read for journalists who aspire to do data-driven reporting.
 
+* Justin Seitz and Jan Cronjé used Python to identify [*fake websites connected to an Indian IT guru*](https://www.news24.com/SouthAfrica/News/exclusive-indian-it-guru-linked-to-fake-wmc-sites-20170726). The code can be found [here](http://www.automatingosint.com/blog/2017/07/osint-website-connections-tracking-codes/).
+
 * Jens Finnäs used Python to analyse the relationship between asylum immigration and crime, and concluded that there was no relationship between the number of asylum seekers in a town and its crime rate. The story was published in *Dagens Samhälle* and the code can be found [here](https://github.com/jensfinnas/dagenssamhalle-notebooks/blob/master/flyktingar_och_brottslighet/Flyktingar%20och%20brottslighet%20i%20kommuner.ipynb).
 
 ## Tools and packages
