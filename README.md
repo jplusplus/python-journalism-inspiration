@@ -12,9 +12,11 @@
 
 * Jens Finnäs used Python to analyse the relationship between asylum immigration and crime, and concluded that there was no relationship between the number of asylum seekers in a town and its crime rate. The story was published in *Dagens Samhälle* and the code can be found [here](https://github.com/jensfinnas/dagenssamhalle-notebooks/blob/master/flyktingar_och_brottslighet/Flyktingar%20och%20brottslighet%20i%20kommuner.ipynb).
 
+* [*How orthography revaled corruption in Kyrgyzstan*](https://www.bellingcat.com/resources/how-tos/2018/10/22/corrupt-latin-orthography-revealed-corruption-kyrgyzstan/).
+
 ## Tools and packages
 * [*Jupyter Lab*](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
-* [*Download the entire Wayback Machine archive for a given URL*](https://github.com/jsvine/waybackpack) via the command-line.
+* [*Download the entire Wayback Machine archive for a given URL*](https://github.com/jsvine/waybackpack) via the command-line
 * [*Awesome OSINT*](https://github.com/jivoi/awesome-osint) list
 
 ## Snippets and scripts
@@ -25,6 +27,7 @@
 **Scraping**
 
 * [*Scraping Sci-Fi movies from IMDB with Python*](https://link.medium.com/8TJsiG8DJU)
+* [*Create your own database of citizens*](https://www.bellingcat.com/resources/how-tos/2019/02/14/creating-your-own-citizen-database/)
 * [*How to aumatically find weapons in social media images*](http://www.automatingosint.com/blog/2016/01/osint-automatically-finding-weapons-in-social-media-images-part-1/) using APIs
 
 **Analysis**
