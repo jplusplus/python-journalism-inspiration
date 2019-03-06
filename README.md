@@ -26,7 +26,7 @@
 
 **Analysis**
 * [*Investigation of voting patterns demographic correlations in Sweden*](http://maxberggren.se/2016/08/15/SD/)
-* [*"Good bye Excel, hello Pandas" workshop at Noda 2018*](https://github.com/jplusplus/noda2018-pandas-workshop) and [*Pandas 101 at Noda 2017*](https://github.com/horriblesmell/noda-pres-17)
+* [*"Good bye Excel, hello Pandas"*](https://github.com/jplusplus/noda2018-pandas-workshop) workshop at Noda 2018 and [*Pandas 101*](https://github.com/horriblesmell/noda-pres-17) at Noda 2017
 
 * [*A Pandas tour in Jupyter Notebook*](https://nbviewer.jupyter.org/gist/wesm/4757075/PandasTour.ipynb)
 
