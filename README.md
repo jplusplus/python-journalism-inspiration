@@ -13,6 +13,7 @@
 * Jens Finnäs used Python to analyse the relationship between asylum immigration and crime, and concluded that there was no relationship between the number of asylum seekers in a town and its crime rate. The story was published in *Dagens Samhälle* and the code can be found [here](https://github.com/jensfinnas/dagenssamhalle-notebooks/blob/master/flyktingar_och_brottslighet/Flyktingar%20och%20brottslighet%20i%20kommuner.ipynb).
 
 ## Tools and packages
+* [*Jupyter Lab*](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
 * [*Download the entire Wayback Machine archive for a given URL*](https://github.com/jsvine/waybackpack) via the command-line.
 * [*Awesome OSINT*](https://github.com/jivoi/awesome-osint) list
 
