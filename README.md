@@ -12,7 +12,7 @@
 
 ## Tools and packages
 * [*Download the entire Wayback Machine archive for a given URL*](https://github.com/jsvine/waybackpack) via the command-line.
-* [*Awesome OSINT*](https://github.com/jivoi/awesome-osint)
+* [*Awesome OSINT*](https://github.com/jivoi/awesome-osint) list
 
 ## Snippets and scripts
 * [*Useful Pandas snippets*](https://gist.github.com/bsweger/e5817488d161f37dcbd2)
