@@ -21,6 +21,7 @@
 
 ## Snippets and scripts
 * [*Useful Pandas snippets*](https://gist.github.com/bsweger/e5817488d161f37dcbd2)
+* [*Asorted utility functions from J++ Python courses*](https://github.com/jplusplus/goodiebag)
 
 ## Tutorials
 
