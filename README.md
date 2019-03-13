@@ -41,6 +41,14 @@
 
 **Misc**
 
+## Newsletters
+
+* The [*Journalism++ newsletter*](https://us10.campaign-archive.com/home/?u=f5c9b898477bcd7a7e64e37d9&id=bf2d183171) gives bi-weekly tips about stories, tools and much more related to data and journalism.
+* [*DataElixir*](https://dataelixir.com/) is a newsletter about all things data.
+* [*Naked Data*](https://nakeddata.co.za/) is a newsletter by data journalist Jason Norwood-Young.
+* [*Data Is Plural*](https://tinyletter.com/data-is-plural) is a newsletter by data journalist Jeremy Singer-Vine.
+* [*Banana Data*](http://banana-data.com/) is a newsletter with focus on AI and data science.
+
 ## Reads
 
 * [PEP 8](https://www.python.org/dev/peps/pep-0008/) is a style guide for easy to read and beautiful Python code. The section on [*naming conventions*](https://www.python.org/dev/peps/pep-0008/#naming-conventions) is particularly good to follow.
